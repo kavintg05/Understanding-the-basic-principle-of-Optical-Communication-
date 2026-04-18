@@ -18,5 +18,9 @@ Numerical Aperture measurement Jig
  6. Vary the distance between the screen and fiber optic cable and make it coincide with one of the concentric circles. Note the distance.
  7. Tabulate the various distances and diameter of the circles made on the white screen and compute the numerical aperture from the formula.
 ---
+## Tabulation:
+<img width="1126" height="1534" alt="image" src="https://github.com/user-attachments/assets/48dbe12d-56be-4b1a-9363-612747e19433" />
 
 ## Result
+The experiment to measure the Numerical Aperture of the optical fiber was successfully performed.
+The Numerical Aperture was calculated for different distances, and the results were found to be consistent, confirming the light gathering ability of the fiber.
