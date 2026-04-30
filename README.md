@@ -18,7 +18,8 @@ the fiber such that its cut face is perpendicular to the axis of the fiber.
  5. Compute the numerical aperture from the formula 
  
 <img width="371" height="115" alt="image" src="https://github.com/user-attachments/assets/e8d66d15-8e27-494a-a273-223228b9ecb8" />
- 6. Vary the distance between the screen and fiber optic cable and make it coincide with one of the concentric circles. Note the distance.
+ 6. Vary the distance between the screen and fiber optic cable and make it coincide with one of the concentric circles.
+ Note the distance.
  7. Tabulate the various distances and diameter of the circles made on the white screen and compute the numerical aperture from the formula.
 
 ---
